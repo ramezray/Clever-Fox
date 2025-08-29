@@ -1,6 +1,6 @@
 import streamlit as st
 
-from ..server import generate_question
+from server import generate_question
 
 
 def main():
